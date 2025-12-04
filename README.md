@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mücahit Barut</h1>
-<h3 align="center">A passionate Jr. Full-Stack developer from Turkey</h3>
+<h3 align="center">A passionate Full-Stack developer from Turkey</h3>
 
 - 🔭 I’m currently working on [HumanResourcesManagement](https://github.com/BoostTeam2/HumanResourcesManagement)
 
